@@ -1,0 +1,98 @@
+<HTML> 
+<HEAD> 
+<title> Energía </title>
+</HEAD> 
+<BODY>  
+<BODY BGCOLOR="BLACK"> 
+	<h1> <center> <FONT SIZE=6 COLOR="white"> PROBLEMA AMBIENTAL DEL CONSUMO DE ENERGÍA </h1> </center> </Font>  
+	<CENTER> <IMG SRC="crisis energetica.jpg" width="300" height="160" ALIGN=MIDDLE BORDER="0"> </CENTER>
+	<p> <FONT COLOR="white"> La producción y el uso de la energía suponen la principal causa, junto con el trasporte, de las emisiones de gases de efecto invernadero, gases responsables del cambio climático. Por ello, una de las formas de actuar para limitar e impedir sus gravísimas consecuencias ambientales, sociales y económicas, relacionadas con el aumento de temperatura, subida del nivel del mar y disminución de precipitaciones, entre otras, consiste en reducir el consumo energético. </p> 
+	<p> El modelo de generación, transporte y consumo actual, absolutamente dependiente de los combustibles fósiles, es insostenible como consecuencia del cambio climático que supone. Según los estudios mas recientes, las consecuencias en el Estado español serán el aumento del número de «olas de calor», con temperaturas cada vez más extremas, y el aumento progresivo de la desertificación.</p>
+	<p> En la actualidad, el incremento de la demanda y consumo de energía y las dificultades que existen para satisfacer esta demanda con las fuentes de energía disponibles, están prefigurando un escenario de crisis energética global. </p>
+	<p> Además la insuficiencia de recursos propios de combustibles fósiles en nuestro país conlleva una gran dependencia energética de otros países y una gran vulnerabilidad de nuestro sistema energético. </p>
+	</Font> 
+	
+	<UL type=circle>
+        <LH> <B> <FONT COLOR="white"> Según sea su origen -térmica (carbón, gas-oil), nuclear o hidroeléctrica- la producción de energía eléctrica tiene otros importantes impactos ambientales:</B> </LH>
+        <LI> Los <b>productos químicos</b> que se emiten, principalmente en las centrales térmicas de carbón y derivados del petróleo, son transportados por el viento y depositados por las lluvias a miles de kilómetros de distancia de su origen, provocando «la lluvia ácida», causante del deterioro y la destrucción de bosques, lagos y otros ecosistemas.</LH>
+	<LI> Las <b>centrales nucleares</b> producen residuos radiactivos de alta actividad (larga vida, alto poder radiactivo) que suponen una amenaza constante para el medio ambiente por la incapacidad actual para gestionarlos. </LH>
+	</UL></Font>
+	
+	<UL type=circle>
+        <LH> <FONT COLOR="white"> Si trabajas en una PYME, eres un profesional autónomo o trabajador de un colectivo desfavorecido y tu actividad incide en alguna medida sobre el medio ambiente, debes saber que las posibilidades de ahorro de energía para las PYME son muy elevadas. Según el informe «Situación del ahorro energético en las pymes españolas» del año 2005, realizado por las Cámaras de Comercio: </LH>
+        <LI> Un uso adecuado de la energía en las pyme reduciría un 10% el consumo eléctrico de España </LH>
+	<LI> Las pyme españolas pueden ahorrar el 20% de la energía que consumen, equivalente al 22% de la reducción de emisiones necesario para que España cumpla el Protocolo de Kioto (10.45 millones de toneladas de CO2).</LH>
+	</UL></Font>
+
+	<h2> <center> <FONT SIZE=5 COLOR="white"> ¿QUIERES CONOCER EL IMPACTO AMBIENTAL DEL CONSUMO ENERGÉTICO Y CUIDAR EL MEDIO AMBIENTE? </h2> </center> </Font> 
+	<CENTER> <IMG SRC="energia y medioambiente.png" width="250" height="160" ALIGN=MIDDLE BORDER="0"> </CENTER>
+	<p> <FONT COLOR="white"> Nuestro actual modo de vida se basa en un modelo energético centrado en el consumo de combustibles fósiles (petróleo, gas y carbón) y en el uso irracional de la energía. Ello conlleva la emisión a la atmósfera de importantes cantidades de Gases de Efecto Invernadero (GEI), principales causantes del cambio climático. </p>
+	
+	<p><b> ¿Qué hay detrás del interruptor de la luz? </b></p> 
+	<p> La generación de energía eléctrica se basa en provocar el giro de un eje conectado a un generador eléctrico. En el caso de producción a través de energías no renovables se dispone de una caldera alimentada con combustibles fósiles que produce el calentamiento de una gran masa de agua originándose así el vapor de agua que produce el eje del giro. </p> 
+	<p><b> ¿Qué hay detrás del grifo de agua caliente sanitaria? </b></p>
+
+	<UL type=circle>
+        <LH> <B> <FONT COLOR="white"> El proceso de producción del gas natural se desarrolla en las siguientes etapas: </B> </LH>
+        <LI> Exploración.</LH>
+	<LI> Extracción mediante la perforación de la roca. </LH>
+	<LI> Tratamiento para acondicionamiento y refinado del gas bruto. </LH>
+	<LI> Transporte por vía tierra (gasoductos) o vía marítima (buques, previa transformación en gas licuado). </LH>
+	<LI> Almacenamiento en depósitos subterráneos. </LH>
+	<LI> Distribución hasta el/la usuario/a final </LH>
+	</UL></Font>
+
+	<p> El sector energético (producción e importación de energía) es el de mayor contribución en emisiones de GEI en la CAPV, alcanzando un porcentaje del 42 % frente al total de emisiones de la CAPV (Fuente: Inventario de Emisiones de GEI en la CAPV 1990-2008. Publicación de IHOBE).</p>
+
+	<p><b> ¿Cuál es nuestra contribución en emisiones de GEI? </b></p>
+	<p> Cuando oímos hablar del cambio climático y de emisión de Gases de Efecto Invernadero (GEI) inconscientemente pensamos en los sectores energético, industria y transporte como los grandes "culpables". </p>
+	<p> Sin embargo, ¿sabías que las emisiones totales de GEI del sector residencial y servicios alcanzan una contribución del 14 % respecto al total de la CAPV? </p>
+	<p> Esta contribución se debe a: </p></Font> 
+
+	<TABLE BORDER>
+	<TR>
+	<TD> <FONT COLOR="white"> <B> <CENTER> EMISIONES DIRECTAS </CENTER> </FONT> </B> </TD> <TD> <FONT COLOR="white"> Debidas al uso de combustibles (en el Campus, gas natural).La combustión genera CO2, gas con la mayor contribución al efecto invernadero.</FONT> </TD> 
+	</TR>
+	<TR>
+	<TD> <FONT COLOR="white"> <B> <CENTER> EMISIONES INDIRECTAS </CENTER> </FONT> </B> </TD> <TD> <FONT COLOR="white"> Generadas en el proceso de producción de la energía eléctrica que posteriormente consumimos como usuarios. Imputables, por tanto, de modo indirecto a nuestros hábitos cotidianos. </FONT> </TD>
+	</TR> 
+	</TABLE> 
+
+	<p> <FONT COLOR="white"> El sector residencial ha aumentado un 13 % sus emisiones de GEI respecto al año 1990. Está en nuestras manos cambiar esta tendencia. </p> </FONT>
+
+	<UL type=circle>
+        <LH> <B> <FONT COLOR="white"> Otros datos de interés: </B> </LH>
+        <LI> Cada grado que se aumenta (en invierno) o se disminuye (en verano) la temperatura de climatización supone un incremento energético del 7 %.</LH>
+	<LI> ¿Conoces claramente los conceptos de "consumo en stand-by" y "consumo fantasma"? </LH>
+	</UL></Font>
+
+	<TABLE BORDER>
+	<TR>
+	<TD> <FONT COLOR="white"> <B> <CENTER> CONSUMO FANTASMA </CENTER> </FONT> </B> </TD> <TD> <FONT COLOR="white">Son los consumos originados por los aparatos conectados de forma permanente a la red eléctrica.
+	<BR>
+	<B>¿Por qué?</B>
+	<BR>
+	Los aparatos electrónicos disponen de un transformador interno para convertir la corriente alterna en continua de bajo voltaje; este transformador permanece siempre conectado a la red y produce un pequeño consumo.
+	<BR>
+	<B>¿Cuánto?</B>
+	<BR>
+	Aproximadamente, 5 Watios por aparato y hora*.
+	</TR>
+	<TR>
+	<TD> <FONT COLOR="white"> <B> <CENTER> CONSUMO EN STAND-BY </CENTER> </FONT> </B> </TD> <TD> <FONT COLOR="white"> Son los consumos originados por los aparatos que se mantienen encendidos "en modo espera" (piloto rojo que permite su encendido vía mando a distancia): televisor, DVD, monitor del ordenador, etc.
+	<BR>
+	<B>¿Por qué?</B>
+	<BR>
+	Consumo del circuito del piloto rojo.
+	<BR>
+	<B>¿Cuánto?</B>
+	<BR>
+	Aproximadamente, 10 Watios por aparato y hora*. Sumando los 5 Watios por aparato y hora del consumo fantasma (transformador) se alcanza un total de 15 Watios por aparato y hora. </FONT> </TD> 
+	</TR> 
+	</TABLE>
+
+	<p> <CENTER> <A HREF="DERECHA.HTML"> Volver a la pagina principal </A> </p> </CENTER>
+
+</Font> 	
+</BODY> 
+</HTML>

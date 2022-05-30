@@ -1,0 +1,137 @@
+<HTML> 
+<HEAD> 
+<title> Extinción de especies y pérdida de biodiversidad </title>
+</HEAD> 
+<BODY>  
+<BODY BGCOLOR="BLACK"> 
+	<h1> <center> <FONT SIZE=6 COLOR="white"> EXTINCIÓN DE ESPECIES </h1> </center> </Font>
+	<CENTER> <IMG SRC="extincion.jpg" width="280" height="180" ALIGN=MIDDLE BORDER="0"> </CENTER>
+	<p> <FONT COLOR="white"> A lo largo de la historia, la Tierra ha experimentado varias extinciones de especies. Cuando hablamos de extinciones, a menudo, lo primero que nos viene a la cabeza son los dinosaurios, esos grandes reptiles que en algún momento de la evolución habitaron el planeta Tierra y fueron devastados por el impacto de un meteorito contra la superficie de la Tierra. Sin embargo, hubo más episodios como este. </p>  
+	</Font>
+
+	<h2> <center> <FONT SIZE=5 COLOR="white"> ¿QUÉ ES LA EXTINCIÓN DE ESPECIES? </h2> </center> </Font> 
+	<CENTER> <IMG SRC="porque animales.jpg" width="400" height="160" ALIGN=MIDDLE BORDER="0"> </CENTER>
+	<p> <FONT COLOR="white"> La extinción de especies es el proceso por el que desaparecen todos los miembros de una especie o grupo de seres vivos. En general, es un proceso natural de la evolución, por la que van apareciendo nuevas especies y desapareciendo otras, que en general, no son capaces de adaptarse a los cambios de su forma de vida o son desplazadas por nuevos competidores. Así pues, la selección natural tiene un papel relevante en este proceso. </p>  
+	<p> Te recomendamos leer estos otros artículos sobre el <A HREF="https://www.ecologiaverde.com/origen-y-evolucion-de-los-animales-resumen-2848.html"> Origen y evolución de los animales </A> y <A HREF="https://www.ecologiaverde.com/extinciones-masivas-que-son-causas-y-cuales-son-3275.html"> Extinciones masivas: qué son, causas y cuáles son. </A> </p>
+	</Font>
+
+	<h2> <center> <FONT SIZE=5 COLOR="white"> ¿CAUSAS DE LA EXTINCIÓN DE ESPECIES? </h2> </center> </Font> 
+	<p> <FONT COLOR="white"> Las causas por la que las especies pueden desaparecer son diversas, pero en general, la más habitual es la desaparición del hábitat donde viven. También ha habido muchas especies extintas por el ser humano; de hecho, hoy en día, el ser humano es el principal responsable de estos cambios con diversas actividades, por ejemplo, con la destrucción del hábitat natural (por ejemplo, el cambio climático está afectando a las placas de hielo donde vive el oso polar), la caza ilegal (a la que se ve sometido el rinoceronte africano por sus cuernos de marfil) o la introducción de especies invasoras con la que otras especies endémicas no puede competir o alteran su ecosistema (como, por ejemplo, el castor en Argentina y Chile, que son uno de los causantes de la destrucción de bosques en Tierra del Fuego). </p>
+	</FONT>
+	
+	<h2> <center> <FONT SIZE=5 COLOR="white"> CONSECUENCIAS DE LA EXTINCIÓN DE ESPECIES </h2> </center> </Font> 
+	<p> <FONT COLOR="white"> Las dudas no están tanto en las causas de la extinción de especies, que la mayoría de gente conoce mejor, sino en las consecuencias de la desaparición de estas. La más palpable, es la pérdida de biodiversidad en un hábitat, es decir, la falta de miembros de dicha especie. Esto, a su vez, acarrea consecuencias ya que, en un ecosistema, todos sus miembros se interrelacionan en mayor o menor medida. La desaparición de uno de ellos provoca cambios, que acaban afectando al resto y provocando, a su vez, que sean más vulnerables a especies invasoras. Esto se puede ver con el siguiente ejemplo: </p>  
+	<p> El bosque de kelp es un sistema formado por nutrias, erizos y kelp (un tipo de alga gigante). Las nutrias se alimentan de erizos y otros crustáceos, que a su vez, se alimentan de kelp. A su vez, el kelp proporciona cobijo a las nutrias y alimento a otras especies. En el caso de que las nutrias desaparezcan, las poblaciones de erizos aumentarían sin control, provocando a su vez la desaparición del kelp y el derrumbe completo de todo el sistema. Por tanto, en esta interrelación, todos los participantes son necesarios para la coexistencia del resto. </p>
+	<p> El mayor problema de las consecuencias de la desaparición de una especie es el hecho de que no estamos seguros de cómo afectará esto al sistema donde vive y se dará un desequilibrio ecológico en los ecosistemas que la naturaleza tendrá que reajustar, lo que conlleva mucho tiempo. Aquí radica la necesidad de la conservación de la biodiversidad. </p>
+	</Font>
+
+	<h2> <center> <FONT SIZE=5 COLOR="white"> EJEMPLOS DE ESPECIES EXTINTAS </h2> </center> </Font> 
+	<CENTER> <IMG SRC="extincion1.jpg" width="400" height="260" ALIGN=MIDDLE BORDER="0"> </CENTER>
+	<UL type=circle>
+        <LH> <B> <FONT COLOR="white">A continuación, veamos algunos ejemplos de especies que se han extinguido a lo largo de la evolución: </B> </LH>
+        <LI> El dodo, una ave no voladora, extinta durante el siglo XVIII, uno de los ejemplos mas conocidos de extinción de una especie causada por el hombre.</LH>
+	<LI>El baiji, un delfin chino endémico del rio Yangtse, declarado extinto en 2008. </LH>
+        <LI> El rinoceronte negro occidental, declarado extinto en 2011, por la caza furtiva.</LH>
+	<LI> Pantera nebulosa de Formosa, endémica de la isla de Taiwan, fue declarada extinta en 2013, aunque en 2019 hubo un avistamiento.</LH>
+        <LI> Foca monje del Caribe, declarada extinta en 1952, debido a la caza organizada por el hombre.</LH>
+	<LI> Oso grizzlie mexicano, extinto en 1964. Endémico de Méjico, fue uno de los carnívoros mas grandes de su hábitat.</LH>
+        <LI> Tigre de Java, endémico de Indonesia, fue abundante hasta finales del siglo XIX. Se considera extinto a partir de 1979.</LH>
+	<LI> Tortuga gigante de Pinta, especie endémica de las islas Galápagos. Se extinguió definitivamente en 2012, cuando su último ejemplar, el Solitario George, murió con alrededor de 100 años.</LH>
+        <LI> Bucardo, una especie de cabra montés endémica de los Pirineos se extinguió en el 2000.</LH>
+	<LI> La paloma migratoria, el ave más abundante de Norteamerica, extinta en 1914.</LH>
+        <LI> Árbol de Franklin, originario de Estados Unidos se extinguio en 1840.</LH>
+	<LI> Flor de Chocolate, aunque ha sido clonada, esta planta mejicana no puede ser introducida en la naturaleza.</LH>
+        <LI> Sándalo de Juan Fernández, procedente de Chile, su extingcion se dato de 1978.</LH>
+	<LI> Sophora toromiro, un claro ejemplo de extinción debido a la especie humana.</LH>
+        <LI> Aeonium mascaense, originaria de China, esta planta sufrió una extinción de forma natural.</LH>
+	<LI> Cooksonia, reconocida como una de las primera plantas presentes en la Tierra.</LH>
+        <LI> Trapa natans, planta acuática conocida como castaña de agua.</LH>
+	<LI> El arbusto toromiro, originaria de la Isla de Pascua, en Chile.</LH>
+        <LI> Araucaria mirabilis, de argentina.</LH>
+	<LI> Franklinia, aunque extinta, se mantiene con vida para motivos ornamentales.</LH>
+	</UL></Font>
+
+	<h2> <center> <FONT SIZE=5 COLOR="white"> EJEMPLOS DE ESPECIES EN PELIGRO DE EXTINCIÓN </h2> </center> </Font>
+	<CENTER> <IMG SRC="peligro-extincion.jpg" width="400" height="300" ALIGN=MIDDLE BORDER="0"> </CENTER>
+	<UL type=circle>
+        <LH> <B> <FONT COLOR="white"> Alguna vez te has preguntado cuántos animales hay en peligro de extinción? La respuesta es que a día de hoy existen más de 5.000 especies en peligro de extinción y, aún más, este dato no para de crecer. Estas son algunas de las especies en peligro de extinción actualmente: </B> </LH>
+        <LI> El leopardo de Amur, endémico de la frontera entre Corea del Norte y Rusia, del cual quedan entre 20 y 35 ejemplares en libertad. </LH>
+	<LI> La salamandra gigante china, el amfibio de mayor tamaño.</LH>
+        <LI> El guacamayo azul, que inspiró la película Rio, del cual solo quedan ejemplares en cautividad.</LH>
+	<LI> El kiwi de Okarito, endémico del sur de Nueva Zelanda, del cual quedan 250 ejemplares.</LH>
+        <LI> El gorila de montaña, del qual quedan menos de 500 ejemplares.</LH>
+	<LI> El esturión común, que antiguamente poblaba toda Europa, y del que hoy solo quedan poblaciones en Francia y la Peninsula Iberica.</LH>
+        <LI> El oryx blanco, un antílope que habitaba el norte del Sahara, el cual se ha reintroducido recientemente en Marruecos.</LH>
+	<LI> El tigre del sur de China, del cual quedan 68 ejemplares en cautividad.</LH>
+        <LI> El cóndor californiano, del cual quedan 400 ejemplares.</LH>
+	<LI> La tortuga laúd, la más grande de las tortugas marinas.</LH>
+        <LI> Flor de la pasión o pasionaria, debe su nombre a la Pasión de Cristo.</LH>
+	<LI> Aciano, destacan sus bonitas flores de color azul liliáceo.</LH>
+        <LI> Dionaea muscipula o venus atrapamoscas, planta que despierte gran curiosidad para los humanos al tratarse de una trampa mortal para las moscas.</LH>
+	<LI> Populus canescens, el alamo cano, se trata de una especie rara típica de montaña.</LH>
+        <LI> Quecus ilex, la encina.</LH>
+	<LI> Hieracium snowdoniense, planta endémica del norte de Gales.</LH>
+        <LI> Sorbus aria, el mostajo, con amplias aplicaciones y características ornamentales.</LH>
+	<LI> Atractylis preauxiana, arbusto endémico de las Islas Canarias.</LH>
+        <LI> Heliconia brenneri, típicamente presente en montañas que alcanzan los 2000 m de altura sobre el nivel del mar.</LH>
+	<LI> Heliconia brenneri, caracterizada por su carencia de clorofila.</LH>
+	</UL></Font>
+
+	<h2> <center> <FONT SIZE=5 COLOR="white"> ¿CÓMO EVITAR LA EXTINCIÓN DE ESPECIES? </h2> </center> </Font> 
+	<UL type=circle>
+        <LH> <FONT COLOR="white"> Como se trata de un proceso natural, resulta difícil evitar la extinción de las especies. Sin embargo, hay muchas actuaciones que podemos hacer para atenuar nuestro impacto sobre este proceso y conseguir frenar su aceleración. Estas son algunas de las medidas que podemos tomar: </LH>
+        <LI> Prohibir la caza deportiva de animales.</LH>
+	<LI> Reducir nuestro impacto en la naturaleza y nuestras huella ecológica y huella de carbono. </LH>
+	<LI> Disminuir la explotación de los recursos naturales.</LH>
+	<LI> Evitar actividades ilegales en la naturaleza y denunciar en caso de detectar alguna.</LH>
+	<LI> Mejores controles de especies invasoras.</LH>
+	<LI> Creación de reservas naturales.</LH>
+	<LI> Colaboración entre entidades, administradores, y países.</LH>
+	</UL></Font>
+
+	<h1> <center> <FONT SIZE=6 COLOR="white"> PÉRDIDA DE BIODIVERSIDAD </h1> </center> </Font> 
+	<CENTER> <IMG SRC="Perdida de biodiversidad.jpg" width="300" height="200" ALIGN=MIDDLE BORDER="0"> </CENTER>
+	<p> <FONT COLOR="white"> La biodiversidad del planeta está amenazada y el principal culpable es aquel que, paradójicamente, más depende de ella: el ser humano. Frenar la pérdida de biodiversidad, entendida como la disminución o desaparición de la variedad de seres vivos que habitan el planeta, es uno de los grandes retos de la humanidad. A continuación, repasamos causas, consecuencias y posibles soluciones. </p>  
+	<p> Los países que conforman el planeta Tierra incumplen todos los objetivos para frenar la destrucción de la biodiversidad fijados para 2020. Esa es la demoledora conclusión del quinto informeEnlace externo, se abre en ventana nueva. Perspectiva Mundial sobre la Diversidad Biológica publicado en septiembre de 2020 por la Plataforma Intergubernamental sobre la Biodiversidad y los Servicios Ecosistémicos (IPBES). El documento no solo advierte sobre la alarmante degradación de la naturaleza, sino que apunta a ella como una variable que aumenta el riesgo de futuras pandemias. </p>
+	<p> El año 2020 era el marcado para alcanzar las conocidas como metas Aichi, o lo que es lo mismo, el Plan Estratégico para la Diversidad Biólogica (2011-2020) establecido por el Programa de Naciones Unidas para el Medio Ambiente (PNUMA). Dicha hoja de ruta estableció 20 objetivos para frenar la destrucción de la biodiversidad del planeta, pero diez años después, según señala el mencionado informe, ninguno de esos compromisos tiene visos de cumplirse al 100 %, con el consiguiente impacto negativo sobre las especies, los ecosistemas y el propio ser humano. </p>
+	</Font>
+	<h2> <center> <FONT SIZE=5 COLOR="white"> ¿QUÉ ES LA PÉRDIDA DE BIODIVERSIDAD? </h2> </center> </Font> 
+	<p> <FONT COLOR="white"> La pérdida de biodiversidad se refiere a la disminución o desaparición de la diversidad biológica, entendida esta última como la variedad de seres vivos que habitan el planeta, sus distintos niveles de organización biológica y su respectiva variabilidad genética, así como los patrones naturales presentes en los ecosistemas. A mediados de 2019, la Organización de las Naciones Unidas (ONU), en colaboración con IPBES, presentó un ambicioso informe [PDF]Enlace externo, se abre en ventana nueva. sobre biodiversidad en el que advertía que un millón de especies —de un total que ronda los ocho millones— está en peligro de extinción. Incluso algunos investigadores se atrevían a hablar del sexto proceso de extinción masiva en la historia del planeta. </p>  
+	</Font>
+
+	<h2> <center> <FONT SIZE=5 COLOR="white"> CAUSAS DE LA PÉRDIDA DE BIODIVERSIDAD </h2> </center> </Font> 
+	<UL type=circle>
+        <LH> <FONT COLOR="white"> La biodiversidad ha disminuido a un ritmo alarmante en los últimos años, como resultado, en gran medida, de la actividad humana. <B> A continuación, repasamos las principales causas: </B> </LH>
+        <LI> <B>Cambio climático:</B> El cambio climático impacta sobre la biodiversidad a diversos niveles: la distribución de las especies, la dinámica de las poblaciones, la estructura de las comunidades y la función ecosistémica. </LH>
+	<LI> <B>Contaminación:</B>Cuando hablamos de contaminación pensamos, por ejemplo, en el humo que sale de los tubos de escape de los coches y ascienden a la atmósfera, pero a la biodiversidad no le afecta solo ese tipo, también lo hace la contaminación acústica y la lumínica.</LH>
+	<LI> <B>Destrucción de hábitats:</B> La contaminación del suelo y los cambios en sus usos debido a actividades como la deforestación de los bosques impactan negativamente en los ecosistemas y en las especies que los componen. </LH>
+	<LI> <B>Especies exóticas invasoras:</B> Las especies exóticas invasoras son la segunda causa de pérdida de biodiversidad en el mundo, según el Programa de las Naciones Unidas para el Desarrollo (PNUD). Actúan como depredadores, compiten por el alimento, se hibridan con las especies nativas, introducen parásitos y enfermedades, etc. </LH>
+	<LI> <B>Sobreexplotación del medio natural:</B> La sobreexplotación de los recursos naturales, es decir, su consumo a una velocidad mayor a la de su regeneración natural, tiene un impacto obvio sobre la flora y la fauna del planeta.</LH>
+	</UL></Font>
+
+	<CENTER> <IMG SRC="Perdida_Biodiversidad_ES.jpg" width="450" height="600" ALIGN=MIDDLE BORDER="0"> </CENTER>
+
+	<h2> <center> <FONT SIZE=5 COLOR="white"> CONSECUENCIAS DE LA PÉRDIDA DE BIODIVERSIDAD </h2> </center> </Font> 
+	<p> <FONT COLOR="white"> La pérdida de biodiversidad trae numerosas consecuencias, las cuales no recaen solo sobre el medio ambiente, sino también sobre el ser humano, ya sea a nivel económico o sanitario. Durante la presentación del informe de IPBES, David Cooper, subsecretario ejecutivo de la Convención sobre Diversidad Biológica, aprovechó para alertar sobre ello en plena crisis por la COVID-19: "Mientras degradamos los ecosistemas, se incrementa el riesgo de futuras pandemias".  </p>  
+	</Font>
+
+	<UL type=circle>
+        <LH> <B> <FONT COLOR="white"> <B>Extinción de especies:</B> La alteración y destrucción de los hábitats provoca que miles de especies se encuentren en peligro de extinción. </B> </LH>
+        <LI> <B> Amenaza al ser humano: </B>La pérdida de biodiversidad pone en peligro el bienestar del ser humano al afectar al suelo y al agua, fundamentales para su alimentación. </LH>
+	<LI> <B> Proliferación de plagas: </B>Los desequilibrios en los ecosistemas pueden impulsar la aparición de plagas que dañen, por ejemplo, las cosechas. </LH>
+	<LI> <B>Aumento de las emisiones de CO2: </B>La capacidad de los bosques y los océanos para absorber CO2 disminuye si sus ecosistemas se ven perjudicados. </LH>
+	</UL></Font>
+	
+	<h2> <center> <FONT SIZE=5 COLOR="white"> SOLUCIONES A LA PÉRDIDA DE BIODIVERSIDAD </h2> </center> </Font> 
+
+	<UL type=circle>
+        <LH> <B> <FONT COLOR="white"> Durante la presentación del informe de la ONU en 2019, la directora general de la Organización de las Naciones Unidas para la Educación, la Ciencia y la Cultura (UNESCO), Audrey Azoulay, apremió a tomar medidas con estas palabras: "Ya no podemos seguir destruyendo la diversidad de la vida. Es nuestra responsabilidad para con las generaciones futuras". A continuación, abordamos algunos de los compromisos de la propia ONU a través de sus Objetivos de Desarrollo Sostenible (ODS): </B> </LH>
+        <LI> <B> ODS 14. Vida submarina:</B> El ODS 14 pretende gestionar sosteniblemente los ecosistemas marinos, costeros, terrestres e interiores de agua dulce, abordar los efectos de la acidificación de los océanos y reglamentar la explotación pesquera al tiempo que fomenta la pesca sostenible. </LH>
+	<LI> <B> ODS 15. Vida de ecosistemas terrestres: </B>El ODS 15 busca proteger, restablecer y promover el uso sostenible de los ecosistemas terrestres, gestionar sosteniblemente los bosques, detener e invertir la degradación de las tierras, combatir la desertificación y frenar la pérdida de biodiversidad. Más allá de los compromisos de la ONU, cada uno a nivel personal puede colaborar para luchar contra la pérdida de biodiversidad. ¿Cómo? Apostando por la movilidad y la alimentación sostenible, el consumo responsable y las prácticas de reciclaje, reduciendo las pequeñas acciones que contaminan, ayudando a concienciar a los más pequeños a través de la educación ambiental, y, en definitiva, apoyando cualquier acción dirigida a proteger la biodiversidad. </LH>
+	</UL></Font>
+
+	<p> <CENTER> <A HREF="DERECHA.HTML"> Volver a la pagina principal </A> </p> </CENTER>
+
+</Font> 	
+</BODY> 
+</HTML>  

@@ -1,0 +1,71 @@
+<HTML> 
+<HEAD> 
+<title> Sobrepesca </title>
+</HEAD> 
+<BODY>  
+<BODY BGCOLOR="BLACK"> 
+	<h1> <center> <FONT SIZE=6 COLOR="white"> SOBREPESCA </h1> </center> </Font>
+	<CENTER> <IMG SRC="Sobre pesca.jpg" width="300" height="160" ALIGN=MIDDLE BORDER="0"> </CENTER>  
+	<p> <FONT COLOR="white"> Los mares y océanos de todo el mundo se enfrentan actualmente a numerosos problemas ambientales (como, por ejemplo, la contaminación) que afectan notablemente al rendimiento de las pesquerías. Uno de los problemas que más relevancia ha cobrado en los últimos años es la sobrepesca. La sobreexplotación de los recursos naturales no es exclusiva del medio marino, también se da en el medio terrestre, con las actividades ganaderas y agrícolas, y pone en peligro la seguridad alimentaria, entre otros aspectos. Sin embargo, en los mares cobra especial importancia por la escasa concienciación social que existe. La ordenación pesquera centrada en la mejora de las poblaciones de peces, está fracasando por la exclusión que en ella se ha hecho de los actores implicados directamente en el medio: los/as pescadores/as. </p>  
+	<p> Si quieres entender qué es la sobrepesca y cuáles son sus consecuencias, entre otros detalles, consulta este artículo de EcologíaVerde en el que se expone qué es la sobrepesca, sus causas, consecuencias y soluciones. </p>
+	</Font>
+
+	<h2> <center> <FONT SIZE=5 COLOR="white"> ¿QUÉ ES LA SOBREPESCA? </h2> </center> </Font>
+	<CENTER> <IMG SRC="Sobrepescaa.gif" width="300" height="160" ALIGN=MIDDLE BORDER="0"> </CENTER>
+	<p> <FONT COLOR="white"> La sobrepesca o pesca excesiva se da cuando la capacidad de extracción de recursos del mar y el océano supera su capacidad de renovación. En otras palabras este fenómeno implica un nivel de captura excesivo de una especie si tenemos en cuenta el tiempo que tiene para regenerarse. </p>  
+	</Font>
+
+	<UL type=circle>
+        <LH> <B> <FONT COLOR="white"> La sobrepesca, tal y como establece la FAO, puede darse de 3 maneras distintas, afectando: </B> </LH>
+        <LI> <B> Sobrepesca al crecimiento de las poblaciones:</B> se produce cuando los juveniles de las especies objeto de pesca se capturan antes de alcanzar la talla necesaria.</LH>
+	<LI> <B> Sobrepesca al reclutamiento:</B> tiene lugar cuando la pesca reduce la cantidad de individuos adultos que desovan hasta el punto que no puede asegurarse el mantenimiento de las especies.</LH>
+	<LI> <B> Sobrepesca a los ecosistemas:</B> este tipo de sobrepesca transforma los ecosistemas marinos maduros y eficientes con alta biomasa en otros inestables e ineficientes, que son de escasa biomasa. </LH>
+	</UL></Font>
+
+	<h2> <center> <FONT SIZE=5 COLOR="white"> CAUSAS Y CONSECUENCIAS DE LA SOBREPESCA </h2> </center> </Font> 
+	<CENTER> <IMG SRC="sobrepesca causas consecuencias.jpg" width="300" height="160" ALIGN=MIDDLE BORDER="0"> </CENTER>
+	<p> <FONT COLOR="white"> La sobre capacidad de las flotas de las distintas especies viene provocada en gran parte por las medidas y normativas de la Política Pesquera Común (PPC) encaminadas en su momento a la renovación de la flota europea. Con ello las embarcaciones aumentaron su tonelaje y potencia y, además, introdujeron nuevas tecnologías para incrementar la productividad. Sin embargo, lejos de mejorar la eficiencia de la actividad, las embarcaciones sobredimensionadas aceleraron el proceso de explotación de mares y océanos, superando el Rendimiento Máximo Sostenible (RMS) de algunas poblaciones de especies comerciales. Por tanto, ¿cuáles son las causas de la sobrepesca y cómo afecta la sobrepesca al medio ambiente? </p>  
+	</Font>
+
+	<UL type=circle>
+        <LH> <B> <FONT COLOR="white"> Causas de la sobrepesca: </B> </LH>
+        <LI> La mala gestión de las pesquerías, como se comenta arriba. </LH>
+	<LI> La pesca ilegal y no regulada.</LH>
+	<LI> La pesca indiscriminada.</LH>	
+	<LI> El empleo de artes menos selectivas.</LH>
+	<LI> La población mundial y demanda de alimentos (pescados y mariscos en este caso) creciente.</LH>
+	</UL></Font>
+
+	<UL type=circle>
+        <LH> <B> <FONT COLOR="white"> Causas de la sobrepesca: </B> </LH>
+        <LI> Pérdida de biodiversidad y desequilibrio de los ecosistemas marinos. </LH>
+	<LI> Aproximadamente el 80% de las poblaciones de peces están sobreexplotadas. </LH>
+	<LI> Disminución de las poblaciones en general y, en concreto, de las de depredadores marinos, siendo esta una de las causas de la proliferación de medusas en el Mediterráneo. </LH>
+	</UL></Font>
+
+	<h2> <center> <FONT SIZE=5 COLOR="white"> SOLUCIONES DE LA SOBREPESCA </h2> </center> </Font> 
+	<p> <FONT COLOR="white"> Si has llegado a este artículo preguntándote sobre cómo acabar con la sobrepesca, te interesará este apartado en el que se expone qué medidas se deben adoptar para evitar la sobrepesca.</p>
+	</Font>
+
+	<UL type=circle>
+        <LH> <FONT COLOR="white"> Para reducir la intensidad pesquera es importante gestionar adecuadamente las cuotas y las vedas espacio-temporales desde un enfoque sostenible. Esto implica elevar a las comunidades de pescadores a los escenarios de gestión y gobernabilidad, permitiendo: </LH>
+        <LI> La integración de estas personas, sus conocimientos, intereses y preocupaciones en el diseño de planes, programas y proyectos, así como en la resolución de problemas ambientales, económicos y sociales.</LH>
+	<LI> Una mejor comunicación de los pescadores con las administraciones y la comunidad científica (técnicos) a fin de abordar las cuestiones pesqueras desde una dimensión integrada y multidisciplinar.</LH>
+	<LI> Fomentar el compromiso y la participación de los pescadores, que al fin y al cabo, son los gestores del medio más directos.</LH>
+	<LI> La legitimación de las normativas pesqueras y, por tanto, un mayor éxito de las mismas.</LH>
+	</UL></Font>
+
+	<UL type=circle>
+        <LH> <B> <FONT COLOR="white"> Además, es necesario conocer otras alternativas complementarias a las expuestas para saber cómo evitar la sobrepesca: </B> </LH>
+        <LI> Campañas de información y concienciación dirigidas a pescadores/as y otros agentes implicados en la gestión pesquera. </LH>
+	<LI> Regular otras actividades de pesca no profesional, como la pesca recreativa, que también impactan sobre el ecosistema y su biodiversidad. </LH>
+	<LI> Apoyar a la pesca de artes menores (más selectiva y respetuosa con el medio marino), frenando y revertiendo la recesión a la que actualmente se enfrenta. </LH>
+	<LI> Desarrollar e implantar puertas menos perniciosas para los fondos marinos en las embarcaciones de arrastre, tal y como se están planteando algunas pesquerías de la Comunidad Valenciana. En este otro artículo puedes aprender más acerca de Qué es la pesca de arrastre.</LH>
+	</UL></Font>
+
+	<p> <CENTER> <A HREF="DERECHA.HTML"> Volver a la pagina principal </A> </p> </CENTER>
+
+</Font> 	
+</BODY> 
+</HTML>  
+

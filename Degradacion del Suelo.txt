@@ -1,0 +1,49 @@
+<HTML> 
+<HEAD> 
+<title> Degradación del Suelo </title>
+</HEAD> 
+<BODY>  
+<BODY BGCOLOR="BLACK"> 
+	<h1> <center> <FONT SIZE=6 COLOR="white"> DEGRADACIÓN DEL SUELO </h1> </center> </Font>  
+	<CENTER> <IMG SRC="sequia degradacion del suelo.jpg" width="300" height="180" ALIGN=MIDDLE BORDER="0"> </CENTER>
+	<p> <FONT COLOR="white"> La degradación del suelo se define como un cambio en la salud del suelo resultando en una disminución de la capacidad del ecosistema para producir bienes o prestar servicios para sus beneficiarios. Los suelos degradados contienen un estado de salud que no pueden proporcionar los bienes y servicios normales del suelo en cuestión en su ecosistema. </p> </Font> 
+	<UL type=circle>
+        <LH> <B> <FONT COLOR="white"> De forma general, se distinguen dos tipos de procesos de degradación del suelo: </B> </LH>
+        <LI> Aquéllos que producen el desplazamiento de las partículas del suelo. Los más importantes son la erosión por agua y viento. </LH>
+	<LI> Fenómenos que originan una degradación in situ del suelo. Pueden ser procesos de degradación física (compactación, artificialización) o química (acidificación, salinización, pérdida de materia orgánica, contaminación). </LH>
+	</UL></Font>
+
+	<h2> <center> <FONT SIZE=5 COLOR="white"> DEFINICIONES </h2> </center> </Font> 
+	<CENTER> <IMG SRC="Desertificacion.jpg" width="300" height="180" ALIGN=MIDDLE BORDER="0"> </CENTER>
+	<p> <FONT COLOR="white"> La <b>erosión del suelo</b> es un término común que a menudo se confunde con la degradación del suelo, ya que realmente se refiere a las pérdidas absolutas de suelo de la capa superficial y nutrientes del suelo. De hecho el efecto más visible de degradación del suelo, pero no cubre totalmente todos sus aspectos. La erosión del suelo se refiere a un proceso natural en zonas montañosas, pero con frecuencia se empeora mediante las malas prácticas de manejo </p> 
+	<p> La <b>degradación de la tierra</b> abarca un alcance más amplio que la erosión y degradación de suelos en conjunto ya que cubre todos los cambios negativos en la capacidad del ecosistema para prestar bienes y servicios (incluso biológicos y servicios y bienes relacionados con el agua – in en visión de LADA- y también su relación con bienes y servicios sociales y económicos).</p> 
+	<p> La <b>desertificación</b> es otro término común utilizado para a) la degradación de la tierra en zonas de tierras áridas y/o  b) el cambio irreversible de la tierra a tal estado que ya no puede ser recuperado a su uso originario.</p> 
+	<p> La <b>prevención</b> implica el uso de medidas de conservación que mantienen los recursos naturales y su medio ambiente productivos.</p> 
+	<p> La <b>mitigación</b> es la intervención  pretendida para reducir la degradación en curso. Resulta en una etapa una vez que la degradación se haya iniciado. El objetivo principal es de detener la degradación continua y comenzar con el mejoramiento de los recursos y sus funciones. Los impactos de mitigación tienden a ser visibles en corto y mediano plazo: proporcionando así un fuerte incentivo para esfuerzos a continuación. La palabra “mitigación’’ por veces también se utiliza para describir la reducción de los impactos de degradación.</p> 
+	<p> La <b>rehabilitación</b> es necesaria cuando la tierra ya está degradada hasta tal punto que su uso original ya no es posible y se ha convertido prácticamente improductiva.  En consecuencia se necesitan inversiones de largo plazo y más costosos para poder obtener algún impacto.</p> 
+	</Font> 
+	
+	<h2> <center> <FONT SIZE=5 COLOR="white"> CAUSAS </h2> </center> </Font> 
+	<CENTER> <IMG SRC="desert2.jpg" width="300" height="180" ALIGN=MIDDLE BORDER="0"> </CENTER>
+	<p> <FONT COLOR="white"> La erosión del suelo es un fenómeno complejo, en el que intervienen dos procesos: la ruptura de los agregados y el transporte de las partículas finas resultantes a otros lugares. Además de la pérdida de la capa de suelo, que contribuye a la desertización, las partículas arrastradas pueden actuar como vehículo de transmisión de contaminación (plaguicidas, metales, nutrientes, minerales, etc.). Se trata de un fenómeno natural pero que ha sido acelerado por las actividades humanas. La erosión puede ser causada por cualquier actividad humana que exponga al suelo al impacto del agua o del viento, o que aumente el caudal y la velocidad de las aguas de escorrentía. </p> 
+	<p> El riesgo de erosión por acción del agua es máximo en periodos de lluvias intensas en que el suelo se encuentra saturado de agua, con escasa cubierta vegetal y aumenta el movimiento del agua por la superficie del suelo. El efecto de la escorrentía resultante elimina cantidades importantes de suelo y origina regueros de erosión que actúan como ruta principal del agua, lo que aumenta el problema. </p>
+	<p> La incidencia de la erosión por el viento, propia de climas áridos y semiáridos, es casi siempre debida a la disminución de la cubierta vegetal del suelo, bien por sobrepastoreo o a causa de la eliminación de la vegetación para usos domésticos o agrícolas </p>
+	</Font>
+	
+	<h2> <center> <FONT SIZE=5 COLOR="white"> IMPACTOS </h2> </center> </Font> 
+	<CENTER> <IMG SRC="Desertificacion-causas.jpg" width="350" height="180" ALIGN=MIDDLE BORDER="0"> </CENTER>
+	<p> <FONT COLOR="white"> Los impactos generados por la erosión del suelo son diversos y las consecuencias económicas de ellos derivados son difíciles de estimar. La erosión por el agua supone una pérdida de la capa fértil de los suelos. De igual forma se reduce la capacidad de retener agua. </p> 
+	<p> Es difícil realizar una estimación de la cantidad de abonos y fertilizantes necesarios para reponer las pérdidas de nutrientes y materia orgánica perdidos por la erosión pero desde luego, lo que es seguro es que se traduce en grandes inversiones monetarias. La erosión del suelo afecta también a los ecosistemas, principalmente en las zonas donde se ha eliminado la cubierta vegetal provocando su destrucción total o parcial. </p>
+	</Font> 
+	
+	<h2> <center> <FONT SIZE=5 COLOR="white"> MEDIDAS </h2> </center> </Font> 
+	<CENTER> <IMG SRC="descarga.jpg" width="300" height="180" ALIGN=MIDDLE BORDER="0"> </CENTER>
+	<p> <FONT COLOR="white"> Uno de los aspectos esenciales en los programas de control de la erosión es la predicción de los lugares y las épocas en que puede presentarse una excesiva erosión. La pérdida de suelo por erosión en un lugar y momento determinado depende de muchos factores que han sido combinados en una sencilla expresión llamada “ecuación universal de la pérdida de suelo”. Esta ecuación se utiliza actualmente a nivel mundial para la elaboración de mapas de erosionabilidad. </p> 
+	<p> En la Comunidad Autónoma del País Vasco, la cubierta vegetal actual es un instrumento muy eficaz contra la erosión. Su eliminación supondría un agravamiento del problema. A la hora de establecer políticas de protección es importante asegurar que el desarrollo, la innovación agrícola u otras actividades, no impliquen daño o eliminación sobre dicha cubierta vegetal. </p>
+	</Font> 
+
+	<p> <CENTER> <A HREF="DERECHA.HTML"> Volver a la pagina principal </A> </p> </CENTER>
+
+</Font> 	
+</BODY> 
+</HTML>  

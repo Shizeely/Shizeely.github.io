@@ -1,0 +1,52 @@
+<HTML> 
+<HEAD> 
+<title> Escasez de Agua </title>
+</HEAD> 
+<BODY>  
+<BODY BGCOLOR="BLACK"> 
+	<h1> <center> <FONT SIZE=6 COLOR="white">ESCASEZ DE AGUA </h1> </center> </Font>  
+	<CENTER> <IMG SRC="escasez de agua 1.jpg" width="200" height="160" ALIGN=MIDDLE BORDER="0"> <IMG SRC="Escasez de aguaaa.jpeg" width="300" height="160" ALIGN=MIDDLE BORDER="0"> </CENTER>
+	<h2> <center> <FONT SIZE=5 COLOR="white">  </h2> </center> </Font> 
+	<p> <FONT COLOR="white"> Algo tan cotidiano como abrir un grifo y que salga agua para que podamos beber cuando tenemos sed o queremos lavarnos, es muy complicado para millones de personas que sufren las consecuencias de la escasez de agua en el mundo. </p>  
+	<p> La escasez de agua se puede definir como el punto en el que el consumo de los usuarios afecta al suministro o calidad del agua, de forma que la demanda no puede ser completamente satisfecha. </p>
+	<p> La escasez de agua física ocurre cuando no hay suficiente agua para satisfacer la demanda. Aproximadamente el 20% de la población mundial vive ahora con escasez de agua física, que The World’s Water: Volumen 8 las define como áreas en las que las extracciones de agua exceden el 75% de los flujos de los ríos. Otros 500 millones viven en áreas “que se acercan a la escasez física”. Esto podría ser el resultado de condiciones locales secas o áridas, pero la distribución también juega un rol. </p>
+	<p> Las condiciones agudas de sequía y la disminución de recursos de agua naturales se centran más en lo que sigue siendo un problema mundial: la falta de acceso al agua potable dulce. La escasez de agua se puede definir como una falta de agua suficiente, o no tener acceso a suministros de agua seguros.</p>
+	<p> El agua es una necesidad urgente en muchas áreas del mundo. Esa escasez se está extendiendo a medida que se necesita el agua para crecer y procesar alimentos, crear energía y satisfacer a la industria para una población en constante crecimiento. El cambio climático es un factor clave.
+ 	El agua limpia es un ingrediente esencial en la vida humana saludable, pero 1.200 millones de personas carecen de acceso al agua, según estimaciones recientes del Instituto Internacional de Gestión del Agua citado en The World’s Water: Volumen 8, editado por Peter H. Gleick. Para el 2025, dos tercios de la población mundial podría estar enfrentando escasez de agua, según la Federación Mundial de Vida Silvestre.</p>
+	<p> Los suministros de agua dulce disponibles en todo el mundo continúan disminuyendo. Para el 2030, la demanda de agua la demanda de agua se prevée que aumente un 40% de acuerdo con Even Kuross, un consultor de gestión con sede en Oslo, que escribe en Fair Observer. Se espera que la población mundial llegue a los 9.000 millones de personas, poniendo presión sobre los suministros de agua.</p>
+	</Font>
+	
+	<h2> <center> <FONT SIZE=5 COLOR="white"> ¿A QUE PAÍSES AFECTA LA ESCASEZ DE AGUA? </h2> </center> </Font> 
+	<CENTER> <IMG SRC="mapa.png" width="600" height="320" ALIGN=MIDDLE BORDER="0"> </CENTER>
+	<p> <FONT COLOR="white"> El suministro de agua potable es fundamental para la salud, la industria y la agricultura. Según los datos del World Resources Institute (WRI) más de 1.000 millones de personas viven, en la actualidad, en regiones con escasez de agua y hasta 3.500 millones podrían sufrir escasez de agua en 2025. </p>  
+	<p>Los países más afectados por la escasez de agua se encuentran en Oriente Medio y el Norte de África. Los cinco primeros países con mayor escasez de agua son: Kuwait, Bahrein, Emiratos Árabes Unidos, Egipto y Qatar, en base a la información de WRI. </p>
+	<p>La escasez de agua afecta aproximadamente al 40% de la población mundial y, según predicciones de Naciones Unidas y del Banco Mundial, la sequía podría poner a 700 millones de personas en riesgo de desplazarse para 2030. Muchos observadores como Van der Heijden están preocupados por lo que podría suceder. "Si no hay agua, los políticos van a intentar controlar ese recurso y es posible que empiecen a pelear por ella". </p>
+	<p>A lo largo del siglo XX, el uso mundial de agua creció a más del doble de la tasa de aumento de la población. Esta disonancia está llevando actualmente a muchas ciudades, desde Roma a Ciudad del Cabo, desde Chennai a Lima, a racionar el agua. Las crisis del agua han estado casi todos los años desde 2012 entre los cinco primeros peligros de la lista de Riesgos Globales por Impacto del Foro Económico Mundial. </p>
+	<p>En 2017, sequías severas contribuyeron a la peor crisis humanitaria desde la Segunda Guerra Mundial, cuando 20 millones de personas en África y Medio Oriente se vieron obligadas a abandonar sus hogares debido a la escasez de alimentos y a los conflictos. </p>
+	<p> Peter Gleick, director del Pacific Institute con sede en Oakland, California, ha pasado las últimas tres décadas estudiando el vínculo entre la escasez de agua, los conflictos y la migración, y cree que los conflictos por el agua están aumentando. "Con muy raras excepciones, nadie muere literalmente de sed", afirmó Gleick. "Pero cada vez más personas mueren a causa de agua contaminada o debido a conflictos por el acceso al agua". </p>
+	</Font>
+	
+	<h2> <center> <FONT SIZE=5 COLOR="white"> ¿CUÁLES SON LAS CAUSAS DE LA ESCASEZ DEL AGUA? </h2> </center> </Font>
+	<center> <video src="ESCASEZ DE AGUA en el Mundo -- 8 Causas y sus Consecuencias.mp4" controls width="700"> </video> </center> 
+	<UL type=circle>
+        <LH> <B> <FONT COLOR="white"> Existen diversas causas que producen la escasez de agua en el mundo, entre las que podemos destacar:</B> </LH>
+        <LI> <B> La contaminación. </B>Nos referimos tanto a la contaminación de aguas dulces como a la contaminación de la tierra o del aire, ya que la contaminación se puede filtrar al agua y también puede afectar al aire.  </LH>
+	<LI> <B> La sequía. </B>Debido a la emergencia climática se potencia la aparición o desarrollo de las sequías, que suponen que durante un tiempo prolongado no haya lluvia, por lo que causa escasez de agua tanto para el consumo humano como para los cultivos o la industria.</LH>
+	<LI> <B> Uso descontrolado del agua. </B>Tanto a gran escala, en las fábricas, como a pequeña escala, en nuestras propias casas, en algunas ocasiones malgastamos el agua y no recordamos que es un recurso escaso.</LH>
+	</UL></Font>
+
+	<h2> <center> <FONT SIZE=5 COLOR="white"> ¿QUÉ CONSECUENCIAS TIENE LA ESCASEZ DEL AGUA EN EL MUNDO? </h2> </center> </Font> 
+	<UL type=circle>
+        <LH> <B> <FONT COLOR="white"> La escasez de agua en el mundo es un problema que puede aumentar y que produce consecuencias graves como las siguientes: </B> </LH>
+        <LI> <B> Enfermedades. </B>La escasez de agua y la falta de sistemas de potabilización adecuados obliga a recurrir a fuentes de agua contaminadas que pueden provocar enfermedades. En base a los datos de la Organización Mundial de la Salud, se puede afirmar que el agua contaminada puede transmitir enfermedades como la diarrea, el cólera o la poliomielitis. La contaminación del agua produce más de 502.000 muertes por diarrea al año. Además, la falta de agua, puede producir deshidratación y generar ulteriores complicaciones. </LH>
+	<LI> <B> Hambre. </B>La escasez de agua puede afectar a la agricultura, la ganadería y la industria y, por lo tanto, producir escasez de alimentos y hambre.</LH>
+	<LI> <B> Desaparición de especies vegetales. </B>Las plantas necesitan una gran cantidad de agua para desarrollarse y cuando el agua escasea se secan y desaparecen.</LH>
+	<LI> <B> Conflictos. </B>La escasez de recursos está en el origen de numerosos conflictos en el mundo y supone el desplazamiento de las personas a otros países para encontrar lugares seguros en los que vivir.</LH>
+	</UL></Font>
+	<CENTER> <IMG SRC="_sequia.jpg" width="250" height="210" ALIGN=MIDDLE BORDER="0"> </CENTER>
+
+	<p> <CENTER> <A HREF="DERECHA.HTML"> Volver a la pagina principal </A> </p> </CENTER>
+
+</Font> 	
+</BODY> 
+</HTML>  
